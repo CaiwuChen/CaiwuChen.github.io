@@ -84,7 +84,7 @@ a{
 
 .white:hover{
     position: relative;
-    padding-left: 10px;
+    padding-left: 100px; /*10px;*/
 }
 
 /* media queres */
