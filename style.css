@@ -102,3 +102,6 @@ a{
         padding-top: 2rem;
     }
 }
+.fa-envelope {
+    color: inherit; /* or specify the desired color */
+}
