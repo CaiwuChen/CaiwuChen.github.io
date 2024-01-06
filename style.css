@@ -52,7 +52,7 @@ a{
 
 .section-2 h2{
     font-size: 1.7rem;
-    margin-bottom: 10px;
+    margin-bottom: 100px;
 }
 
 .section-2 p{
@@ -84,7 +84,7 @@ a{
 
 .white:hover{
     position: relative;
-    padding-left: 100px; /*10px;*/
+    padding-left: 10px;
 }
 
 /* media queres */
