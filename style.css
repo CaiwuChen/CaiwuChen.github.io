@@ -48,7 +48,6 @@ a{
 .section-2{
     padding-top: 10vh;
     width: 70%;
-    white-space: nowrap;
 }
 
 .section-2 h2{
@@ -64,7 +63,7 @@ a{
 
 .section-2 a{
     display: block;
-    padding: 5px;
+    padding: 20px;
     font-size: 1.2rem;
     padding-left: 0;
     width: 100px;
